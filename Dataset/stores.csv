@@ -1,0 +1,101 @@
+Store_ID,Store_Name,City,State,Manager
+S001,Reliance Smart Delhi 1,Delhi,Delhi,Manager 1
+S002,Reliance Smart Mumbai 2,Mumbai,Maharashtra,Manager 2
+S003,Reliance Smart Pune 3,Pune,Maharashtra,Manager 3
+S004,Reliance Smart Kolkata 4,Kolkata,West Bengal,Manager 4
+S005,Reliance Smart Bengaluru 5,Bengaluru,Karnataka,Manager 5
+S006,Reliance Smart Hyderabad 6,Hyderabad,Telangana,Manager 6
+S007,Reliance Smart Chennai 7,Chennai,Tamil Nadu,Manager 7
+S008,Reliance Smart Ahmedabad 8,Ahmedabad,Gujarat,Manager 8
+S009,Reliance Smart Jaipur 9,Jaipur,Rajasthan,Manager 9
+S010,Reliance Smart Lucknow 10,Lucknow,Uttar Pradesh,Manager 10
+S011,Reliance Smart Indore 11,Indore,Madhya Pradesh,Manager 11
+S012,Reliance Smart Nagpur 12,Nagpur,Maharashtra,Manager 12
+S013,Reliance Smart Surat 13,Surat,Gujarat,Manager 13
+S014,Reliance Smart Patna 14,Patna,Bihar,Manager 14
+S015,Reliance Smart Ranchi 15,Ranchi,Jharkhand,Manager 15
+S016,Reliance Smart Bhopal 16,Bhopal,Madhya Pradesh,Manager 16
+S017,Reliance Smart Noida 17,Noida,Uttar Pradesh,Manager 17
+S018,Reliance Smart Gurugram 18,Gurugram,Haryana,Manager 18
+S019,Reliance Smart Kochi 19,Kochi,Kerala,Manager 19
+S020,Reliance Smart Visakhapatnam 20,Visakhapatnam,Andhra Pradesh,Manager 20
+S021,Reliance Smart Delhi 21,Delhi,Delhi,Manager 21
+S022,Reliance Smart Mumbai 22,Mumbai,Maharashtra,Manager 22
+S023,Reliance Smart Pune 23,Pune,Maharashtra,Manager 23
+S024,Reliance Smart Kolkata 24,Kolkata,West Bengal,Manager 24
+S025,Reliance Smart Bengaluru 25,Bengaluru,Karnataka,Manager 25
+S026,Reliance Smart Hyderabad 26,Hyderabad,Telangana,Manager 26
+S027,Reliance Smart Chennai 27,Chennai,Tamil Nadu,Manager 27
+S028,Reliance Smart Ahmedabad 28,Ahmedabad,Gujarat,Manager 28
+S029,Reliance Smart Jaipur 29,Jaipur,Rajasthan,Manager 29
+S030,Reliance Smart Lucknow 30,Lucknow,Uttar Pradesh,Manager 30
+S031,Reliance Smart Indore 31,Indore,Madhya Pradesh,Manager 31
+S032,Reliance Smart Nagpur 32,Nagpur,Maharashtra,Manager 32
+S033,Reliance Smart Surat 33,Surat,Gujarat,Manager 33
+S034,Reliance Smart Patna 34,Patna,Bihar,Manager 34
+S035,Reliance Smart Ranchi 35,Ranchi,Jharkhand,Manager 35
+S036,Reliance Smart Bhopal 36,Bhopal,Madhya Pradesh,Manager 36
+S037,Reliance Smart Noida 37,Noida,Uttar Pradesh,Manager 37
+S038,Reliance Smart Gurugram 38,Gurugram,Haryana,Manager 38
+S039,Reliance Smart Kochi 39,Kochi,Kerala,Manager 39
+S040,Reliance Smart Visakhapatnam 40,Visakhapatnam,Andhra Pradesh,Manager 40
+S041,Reliance Smart Delhi 41,Delhi,Delhi,Manager 41
+S042,Reliance Smart Mumbai 42,Mumbai,Maharashtra,Manager 42
+S043,Reliance Smart Pune 43,Pune,Maharashtra,Manager 43
+S044,Reliance Smart Kolkata 44,Kolkata,West Bengal,Manager 44
+S045,Reliance Smart Bengaluru 45,Bengaluru,Karnataka,Manager 45
+S046,Reliance Smart Hyderabad 46,Hyderabad,Telangana,Manager 46
+S047,Reliance Smart Chennai 47,Chennai,Tamil Nadu,Manager 47
+S048,Reliance Smart Ahmedabad 48,Ahmedabad,Gujarat,Manager 48
+S049,Reliance Smart Jaipur 49,Jaipur,Rajasthan,Manager 49
+S050,Reliance Smart Lucknow 50,Lucknow,Uttar Pradesh,Manager 50
+S051,Reliance Smart Indore 51,Indore,Madhya Pradesh,Manager 51
+S052,Reliance Smart Nagpur 52,Nagpur,Maharashtra,Manager 52
+S053,Reliance Smart Surat 53,Surat,Gujarat,Manager 53
+S054,Reliance Smart Patna 54,Patna,Bihar,Manager 54
+S055,Reliance Smart Ranchi 55,Ranchi,Jharkhand,Manager 55
+S056,Reliance Smart Bhopal 56,Bhopal,Madhya Pradesh,Manager 56
+S057,Reliance Smart Noida 57,Noida,Uttar Pradesh,Manager 57
+S058,Reliance Smart Gurugram 58,Gurugram,Haryana,Manager 58
+S059,Reliance Smart Kochi 59,Kochi,Kerala,Manager 59
+S060,Reliance Smart Visakhapatnam 60,Visakhapatnam,Andhra Pradesh,Manager 60
+S061,Reliance Smart Delhi 61,Delhi,Delhi,Manager 61
+S062,Reliance Smart Mumbai 62,Mumbai,Maharashtra,Manager 62
+S063,Reliance Smart Pune 63,Pune,Maharashtra,Manager 63
+S064,Reliance Smart Kolkata 64,Kolkata,West Bengal,Manager 64
+S065,Reliance Smart Bengaluru 65,Bengaluru,Karnataka,Manager 65
+S066,Reliance Smart Hyderabad 66,Hyderabad,Telangana,Manager 66
+S067,Reliance Smart Chennai 67,Chennai,Tamil Nadu,Manager 67
+S068,Reliance Smart Ahmedabad 68,Ahmedabad,Gujarat,Manager 68
+S069,Reliance Smart Jaipur 69,Jaipur,Rajasthan,Manager 69
+S070,Reliance Smart Lucknow 70,Lucknow,Uttar Pradesh,Manager 70
+S071,Reliance Smart Indore 71,Indore,Madhya Pradesh,Manager 71
+S072,Reliance Smart Nagpur 72,Nagpur,Maharashtra,Manager 72
+S073,Reliance Smart Surat 73,Surat,Gujarat,Manager 73
+S074,Reliance Smart Patna 74,Patna,Bihar,Manager 74
+S075,Reliance Smart Ranchi 75,Ranchi,Jharkhand,Manager 75
+S076,Reliance Smart Bhopal 76,Bhopal,Madhya Pradesh,Manager 76
+S077,Reliance Smart Noida 77,Noida,Uttar Pradesh,Manager 77
+S078,Reliance Smart Gurugram 78,Gurugram,Haryana,Manager 78
+S079,Reliance Smart Kochi 79,Kochi,Kerala,Manager 79
+S080,Reliance Smart Visakhapatnam 80,Visakhapatnam,Andhra Pradesh,Manager 80
+S081,Reliance Smart Delhi 81,Delhi,Delhi,Manager 81
+S082,Reliance Smart Mumbai 82,Mumbai,Maharashtra,Manager 82
+S083,Reliance Smart Pune 83,Pune,Maharashtra,Manager 83
+S084,Reliance Smart Kolkata 84,Kolkata,West Bengal,Manager 84
+S085,Reliance Smart Bengaluru 85,Bengaluru,Karnataka,Manager 85
+S086,Reliance Smart Hyderabad 86,Hyderabad,Telangana,Manager 86
+S087,Reliance Smart Chennai 87,Chennai,Tamil Nadu,Manager 87
+S088,Reliance Smart Ahmedabad 88,Ahmedabad,Gujarat,Manager 88
+S089,Reliance Smart Jaipur 89,Jaipur,Rajasthan,Manager 89
+S090,Reliance Smart Lucknow 90,Lucknow,Uttar Pradesh,Manager 90
+S091,Reliance Smart Indore 91,Indore,Madhya Pradesh,Manager 91
+S092,Reliance Smart Nagpur 92,Nagpur,Maharashtra,Manager 92
+S093,Reliance Smart Surat 93,Surat,Gujarat,Manager 93
+S094,Reliance Smart Patna 94,Patna,Bihar,Manager 94
+S095,Reliance Smart Ranchi 95,Ranchi,Jharkhand,Manager 95
+S096,Reliance Smart Bhopal 96,Bhopal,Madhya Pradesh,Manager 96
+S097,Reliance Smart Noida 97,Noida,Uttar Pradesh,Manager 97
+S098,Reliance Smart Gurugram 98,Gurugram,Haryana,Manager 98
+S099,Reliance Smart Kochi 99,Kochi,Kerala,Manager 99
+S100,Reliance Smart Visakhapatnam 100,Visakhapatnam,Andhra Pradesh,Manager 100

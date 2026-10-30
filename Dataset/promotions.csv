@@ -1,0 +1,6 @@
+Promo_ID,Promotion,Discount_Percent,Start_Date,End_Date
+PR001,Diwali Blast,20,2025-10-15,2025-11-05
+PR002,Holi Sale,15,2025-03-01,2025-03-20
+PR003,Weekend Saver,10,2025-01-01,2025-12-31
+PR004,New Year,12,2025-12-25,2026-01-05
+PR005,Summer Sale,8,2025-05-01,2025-06-15
